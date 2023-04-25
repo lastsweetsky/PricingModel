@@ -24,3 +24,13 @@ Description of variables in data:
 • “Output_own_share” - own sales share in the period
 
 • “Output_own_profits” - own total profits in the period
+
+
+Output data example:
+
+mkt_id	output_date	output_own_price	output_own_cost	output_comp_price	output_own_profits	output_X	output_own_share	output_own_sales
+44	01jan2019	7.05	5.9	7.11	15.065	42.8	.5152673	13.1
+44	02jan2019	7.05	6.05	7.11	24.31	36.14	.5570819	24.31
+44	03jan2019	7.05	5.98	7.28	30.78391	34.34	.5799217	28.77
+44	04jan2019	7.05	5.98	7.28	20.1695	36.32	.5427674	18.85
+44	05jan2019	6.79	6.07	6.68	1.2312	44.06	.4947566	1.71<img width="742" alt="image" src="https://user-images.githubusercontent.com/109412337/234283197-6ec37d59-027a-4aa4-947c-cb79761ac72d.png">
