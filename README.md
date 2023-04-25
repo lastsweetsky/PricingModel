@@ -26,6 +26,7 @@ Description of variables in data:
 • “Output_own_profits” - own total profits in the period
 
 
+
 Output data example:
 
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/109412337/234283197-6ec37d59-027a-4aa4-947c-cb79761ac72d.png">
