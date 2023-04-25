@@ -8,11 +8,19 @@ The algorithm is designed and trained using data from 55 markets, with informati
 Description of variables in data:
 
 • “Mkt_id” - identifier for the market
+
 • “Output_date” - identifier for the period (day)
+
 • “Output_own_price” - own price set in the period (day)
+
 • “Output_own_cost” - own per-unit cost of goods sold for the period
+
 • “Output_comp_price” - average of competitor prices in the period
+
 • “Output_X” - a variable summarizing market conditions in the period (on a scale between 0 and 100)
+
 • “Output_own_sales” - own sales in the period
+
 • “Output_own_share” - own sales share in the period
+
 • “Output_own_profits” - own total profits in the period
